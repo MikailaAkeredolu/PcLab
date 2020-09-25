@@ -28,7 +28,7 @@ Make sure you add all that is necessary, getters, settres etc..
 - Create the following properties/instance variables as well as getters, constructors...int width; int height; int depth;
 
 ### Part 6 - Main class:
-- Create an instance/Object of Type PC2
+- Create an instance/Object of Type PC
 - Call the description() method on the pc object3 
 - Invoke the powerUp() method method on the pc object
 

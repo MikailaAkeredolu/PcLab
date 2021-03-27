@@ -1,5 +1,8 @@
 # Assesmble a PC system (UML required)
 
+Hello,
+Before you start coding - Create your UML first. Don't forget that a UML required
+
 ### Part 1 - Create the following classes:
 - Create a PC class that HAS a Case , Motherboard and a Monitor
 - Create a **parameterized constructor** for PC containing all of its instance variables

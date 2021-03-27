@@ -4,7 +4,7 @@
 
 
 ### Part 1 - Create the following classes:
-- Create a PC class that HAS a Case , Motherboard and a Monitor
+- Create a PC class that HAS A Case , Motherboard and a Monitor
 - Create a **parameterized constructor** for PC containing all of its instance variables
 - Create a **drawLogo()** method that is private , that takes and returns nothing butinside the method,**invokes/calls the drawPixel(x,y,z)** method on the monitor instancevariable in the PC class
 - Create a public method called **description()** that takes and returns nothing butprints out the description of the case, monitor and motherboard but starting with themessage “Welcome to worst buy below is the description of the pc on sale today”

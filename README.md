@@ -6,8 +6,8 @@
 ### Part 1 - Create the following classes:
 - Create a PC class that HAS A Case , Motherboard and a Monitor
 - Create a **parameterized constructor** for PC containing all of its instance variables
-- Create a **drawLogo()** method that is private , that takes and returns nothing butinside the method,**invokes/calls the drawPixel(x,y,z)** method on the monitor instancevariable in the PC class
-- Create a public method called **description()** that takes and returns nothing butprints out the description of the case, monitor and motherboard but starting with themessage “Welcome to worst buy below is the description of the pc on sale today”
+- Create a **drawLogo()** method that is private , that takes and returns nothing but inside the method,**invokes/calls the drawPixel(x,y,z)** method on the monitor instancevariable in the PC class
+- Create a public method called **description()** that takes and returns nothing but prints out the description of the case, monitor and motherboard but starting with themessage “Welcome to worst buy below is the description of the pc on sale today”
 
 - Make sure all objects can be printed using the **String representation of an object**
 - Create a **powerUp()** method that is public and returns nothing but inside the methodinvoke/call  the **pressPowerButton() method  on theCase** and after that it calls/invokethe **drawLogo()** method then right after that it invokes the​ loadProgram() method on themotherBoard ​ivar

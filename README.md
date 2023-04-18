@@ -25,7 +25,8 @@
 
 ### Part 4 - MotherBoard class:
 - Create the following instance variables, fields or propertiesprivate String model; String manufacturer, int ramSlots; int cardSlots; String bios;
-- Create a **loadProgram()** (method that returns nothing but accepts a parameter named programName). 
+- Create a **loadProgram()** (method that returns nothing but accepts a parameter named programName)
+-  
 - Inside the loadProgram method concatenate and print out - "Photoshop is now running..."   Photoshop will be the argument to pass to it when invoked.
 - Ensure that you have a string representation of the object.
 

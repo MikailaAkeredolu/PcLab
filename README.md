@@ -7,7 +7,7 @@
 - Create a **parameterized constructor** for PC containing all of its instance variables/ properties/fields/attributes
 - Inside the Pc class, create a **drawLogo()** method that is private, it accepts no parameters and returns nothing.
 - Inside the drawLogo()method, **invoke/call the drawPixel(x,y,color)** method on the monitor's instance variable. (Hint: See Monitor class)
-- Create a public method called **description()** that accepts no parametrs and returns nothing but prints out the description of the case, monitor and motherboard by concatenating them to the message “Welcome to worst buy below is the description of the pc on sale today”
+- Create a public method called **description()** that accepts no parametrs and returns nothing but prints out the description of the case, monitor and motherboard by concatenating them to the message “Welcome to worst buy, below is the description of the pc on sale today”
 - Make sure all objects can be printed using the **String representation of an object**
 - Create a **powerUp()** method that is public and returns nothing but inside the method do the following:
 - invoke/call  the **pressPowerButton() method  on theCase** 

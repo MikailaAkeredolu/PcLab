@@ -15,7 +15,7 @@
 - Invoke the loadProgram() method on the motherBoard's instance variable/property after calling the drawLogo method. You are now done with the pressPowerButton.
 
 ### Part 2 - Monitor class:
-- Create a **Monitor class that has-A** : **Resolution ** modelNumber and manufacturerName as well.(All instance variables)
+- Create a **Monitor class that has-A**  **Resolution** modelNumber and manufacturerName as well.(All instance variables)
 - Create a method named **drawPixel(int x, int y, String color)** with the following parameters as seen.
 - Inside the drawPixel method, simply print **Drawing pixel at " + x + "," + y + " " + " in color "+ color**. (use this code inside the method)
 - Ensure that you have a string representation of the object.
